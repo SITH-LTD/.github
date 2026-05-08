@@ -1,164 +1,222 @@
-# SITH-LTD Organization Review Information  
-# SITH-LTD 組織審查說明
+# SITH-LTD GitHub Organization Profile  
+# SITH-LTD GitHub 組織簡介
 
-## 1. Organization Purpose  
-## 1. 組織用途說明
+## 1. Organization Overview  
+## 1. 組織概述
 
-SITH-LTD is intended to be used as a legitimate software development and collaboration organization on GitHub.
+SITH-LTD is a company GitHub organization established for legitimate software development, source code management, technical documentation, and internal collaboration.
 
-SITH-LTD 組織係作為合法、正常之軟體開發與專案協作用途，於 GitHub 平台上進行原始碼管理、技術文件維護、專案協作與開發流程管理。
+SITH-LTD 是公司正式建立之 GitHub 組織，主要用途為合法之軟體開發、原始碼管理、技術文件維護及內部協作。
 
-This organization is associated with the following public website:
+This organization is used by authorized company members and approved collaborators to manage software projects, development guidelines, system documentation, and engineering workflows.
 
-本組織可參考之公開網站如下：
+本組織僅供經授權之公司成員及核准之協作者使用，用於管理軟體專案、開發規範、系統文件及工程協作流程。
 
-- Website / 官方網站：http://www.sit.com.tw/
+Reference website:  
+參考網站：
 
-The purpose of this GitHub organization is to support normal software engineering activities, including source code management, project collaboration, technical documentation, issue tracking, and controlled development workflows.
-
-本 GitHub Organization 之設立目的，是支援正常軟體工程活動，包括原始碼版本控管、專案協作、技術文件管理、Issue 追蹤，以及受控之開發流程管理。
+http://www.sit.com.tw/
 
 ---
 
-## 2. Intended Use of the Organization  
-## 2. 組織預定使用範圍
+## 2. Intended Use  
+## 2. 組織用途
 
-This organization is intended for legitimate software engineering and project collaboration activities only.
+This organization is intended for the following legitimate purposes:
 
-本組織僅用於合法之軟體工程與專案協作活動。
+本組織預計用於下列合法且正式之用途：
 
-The organization may be used for:
+- Company software development  
+  公司軟體系統開發
 
-本組織可用於下列用途：
+- Internal application maintenance  
+  內部應用系統維護
 
-- Application source code management  
-  應用程式原始碼管理
-- Technical documentation  
-  技術文件維護
-- System design and implementation records  
-  系統設計與實作紀錄
-- Project collaboration between authorized members  
-  授權成員間之專案協作
-- Issue tracking and development task management  
-  Issue 追蹤與開發任務管理
-- Version control for internal or public software projects  
-  內部或公開軟體專案之版本控管
+- Source code version control  
+  原始碼版本控管
+
+- Technical documentation management  
+  技術文件管理
+
 - Development workflow standardization  
   開發流程標準化
 
+- Repository governance  
+  Repository 治理與管理
+
+- Internal engineering collaboration  
+  內部工程與技術協作
+
+- Proof-of-concept and evaluation projects  
+  概念驗證與技術評估專案
+
+---
+
+## 3. Repository Scope  
+## 3. Repository 使用範圍
+
+Repositories in this organization may include:
+
+本組織內之 Repository 可能包含下列內容：
+
+- Application source code  
+  應用系統原始碼
+
+- Internal development tools  
+  內部開發工具
+
+- System integration documents  
+  系統整合文件
+
+- Coding standards  
+  程式開發規範
+
+- Technical guidelines  
+  技術指引
+
+- Project documentation  
+  專案文件
+
+- Development templates  
+  開發範本
+
+- Engineering proof-of-concept materials  
+  工程技術概念驗證資料
+
+Each repository should have a clear purpose, appropriate access control, and proper documentation.
+
+每一個 Repository 均應具備明確用途、適當的權限控管及必要之說明文件。
+
+---
+
+## 4. Member and Access Management  
+## 4. 成員與權限管理
+
+Access to this organization is restricted to authorized company employees, technical staff, and approved collaborators.
+
+本組織之存取權限僅限於經授權之公司員工、技術人員及核准之協作者。
+
+Organization administrators are responsible for:
+
+組織管理者負責下列事項：
+
+- Reviewing member invitations  
+  審查成員邀請
+
+- Managing repository access permissions  
+  管理 Repository 存取權限
+
+- Removing unused or unnecessary access  
+  移除不再使用或非必要之存取權限
+
+- Maintaining appropriate ownership and maintainer roles  
+  維護適當之 Owner 與 Maintainer 角色
+
+- Ensuring that repositories are used for legitimate company purposes  
+  確保 Repository 僅用於合法之公司業務與技術用途
+
+---
+
+## 5. Security and Acceptable Use Statement  
+## 5. 資安與可接受使用聲明
+
+This organization is not used for any activity that violates GitHub's Terms of Service, Acceptable Use Policies, or platform security rules.
+
+本組織不會用於任何違反 GitHub 服務條款、可接受使用政策或平台安全規則之活動。
+
 This organization is not intended for:
 
-本組織不會用於下列用途：
+本組織並非用於下列用途：
 
 - Spam  
-  垃圾訊息或濫發內容
+  垃圾訊息或大量未經請求之活動
+
 - Phishing  
-  網路釣魚
+  釣魚網站或釣魚活動
+
+- Credential theft  
+  憑證竊取
+
 - Malware distribution  
   惡意程式散布
-- Credential theft  
-  憑證、帳號或密碼竊取
-- Crypto mining  
+
+- Cryptocurrency mining  
   加密貨幣挖礦
+
+- Bot activity  
+  非正當機器人活動
+
+- Fake engagement  
+  假互動或人為製造之平台活動
+
 - Platform abuse  
   平台濫用
-- Unauthorized scanning  
-  未授權掃描
-- Misleading or impersonation activities  
-  誤導、仿冒或冒名活動
-- Any activity that violates GitHub's Terms of Service or Acceptable Use Policies  
-  任何違反 GitHub 服務條款或可接受使用政策之行為
+
+- Impersonation  
+  冒用身分或冒充其他實體
+
+- Unauthorized vulnerability scanning  
+  未經授權之弱點掃描
+
+- Unauthorized attacks  
+  未經授權之攻擊行為
+
+- Illegal or abusive activity  
+  非法或濫用行為
+
+All organization activities are intended to support legitimate software engineering, technical documentation, and internal collaboration.
+
+本組織所有活動均以合法之軟體工程、技術文件維護及內部協作為目的。
 
 ---
 
-## 3. Compliance Statement  
-## 3. 合規聲明
+## 6. Compliance and Governance  
+## 6. 合規與治理原則
 
-We understand that GitHub requires users and organizations to comply with applicable platform rules, including acceptable use, account authenticity, intellectual property, privacy, security, and anti-abuse requirements.
+The organization follows internal governance principles for software development and repository management, including:
 
-我們理解 GitHub 要求使用者與組織遵守平台相關規範，包括可接受使用、帳號真實性、智慧財產權、隱私權、安全性，以及反濫用相關要求。
+本組織遵循內部軟體開發及 Repository 管理治理原則，包含：
 
-We confirm that this organization is intended to operate in good faith and to comply with GitHub's terms, policies, and acceptable use requirements.
+- Authorized access only  
+  僅允許經授權人員存取
 
-我們確認本組織係基於善意與合法目的設立，並將遵守 GitHub 相關服務條款、平台政策與可接受使用要求。
+- Least-privilege permission management  
+  採最小權限原則進行權限管理
 
----
+- Proper repository naming and description  
+  Repository 應具備適當命名與用途說明
 
-## 4. Security and Abuse Prevention Measures  
-## 4. 安全與防濫用管理措施
+- Documentation of repository purpose  
+  Repository 應記錄其建立目的與使用範圍
 
-To prevent misuse of this organization, we will apply the following administrative and security controls:
+- Avoidance of sensitive data exposure  
+  避免敏感資料外洩
 
-為避免本組織遭不當使用，我們將採取下列管理與安全控制措施：
+- Review of source code and technical documents  
+  原始碼與技術文件應進行必要審查
 
-- Organization ownership will be limited to authorized administrators.  
-  Organization Owner 權限僅限授權管理人員持有。
-- Member invitations will be reviewed before being sent.  
-  成員邀請將於發送前進行審查。
-- Repository access will be granted according to project need.  
-  Repository 存取權限將依專案需求授權。
-- Public repositories will not contain passwords, tokens, private keys, certificates, or other sensitive credentials.  
-  公開 Repository 不會存放密碼、Token、私鑰、憑證或其他敏感憑證資料。
-- GitHub Actions will not be used for abusive automation, crypto mining, spam, or unauthorized scanning.  
-  GitHub Actions 不會用於濫用型自動化、加密貨幣挖礦、垃圾訊息發送或未授權掃描。
-- Repository content will be reviewed to avoid malicious files, phishing pages, misleading materials, or unauthorized copyrighted content.  
-  Repository 內容將進行檢視，以避免惡意檔案、釣魚頁面、誤導性內容或未授權著作權資料。
-- Organization members will be encouraged to use verified email addresses and secure account practices.  
-  將鼓勵組織成員使用已驗證電子郵件與安全帳號管理措施。
-- Administrative access will be reviewed periodically.  
-  管理權限將定期檢視。
+- Compliance with company security and operational requirements  
+  符合公司資安與維運管理要求
 
 ---
 
-## 5. Repository Governance  
-## 5. Repository 管理原則
+## 7. Administrator Note  
+## 7. 管理者說明
 
-Repositories under this organization are expected to follow basic governance practices:
+If this organization has been flagged by GitHub's automated review system, we respectfully request GitHub Support to review the organization status.
 
-本組織下之 Repository 預期將遵循下列基本治理原則：
+若本組織因 GitHub 自動化審查機制而被標記，敬請 GitHub Support 協助重新審查本組織狀態。
 
-- Use clear repository names and descriptions.  
-  使用清楚明確之 Repository 名稱與說明。
-- Maintain project documentation where applicable.  
-  依專案需要維護相關文件。
-- Avoid publishing sensitive configuration files.  
-  避免公開敏感設定檔。
-- Avoid committing credentials, secrets, or private certificates.  
-  避免提交帳號密碼、Secret、私鑰或私人憑證。
-- Review automation workflows before enabling them.  
-  啟用自動化流程前，將先檢視其用途與安全性。
-- Restrict write access to authorized contributors only.  
-  寫入權限僅授予經授權之貢獻者。
+This organization represents legitimate company software development and internal technical collaboration. We are willing to provide additional verification information, domain verification, company information, or corrective action if required.
+
+本組織係用於合法之公司軟體開發與內部技術協作。如有需要，我們願意提供額外之驗證資訊、網域驗證、公司資料或依 GitHub 要求進行必要修正。
 
 ---
 
-## 6. Request for GitHub Review  
-## 6. GitHub 審查請求
+## 8. Reference  
+## 8. 參考資訊
 
-Our organization has been flagged and hidden from public visibility.
+Company website:  
+公司網站：
 
-本組織目前已被 GitHub 標記，並暫時自公開頁面隱藏。
-
-We believe this may be a false positive or the result of an automatic anti-abuse review. This organization is intended for legitimate software development and collaboration.
-
-我們認為此狀態可能為誤判，或係 GitHub 自動反濫用審查機制所產生之結果。本組織之用途為合法之軟體開發與專案協作。
-
-We respectfully request GitHub Support to review the status of this organization and let us know if any additional verification, ownership confirmation, or corrective action is required.
-
-我們敬請 GitHub Support 協助重新審查本組織狀態，並告知是否需要提供額外驗證資料、所有權確認資料或執行任何修正措施。
-
-Organization URL:
-
-組織網址：
-
-- https://github.com/organizations/SITH-LTD
-
-Reference website:
-
-參考網站：
-
-- http://www.sit.com.tw/
-
-Thank you for reviewing this organization.
-
-感謝 GitHub 協助審查本組織。
+http://www.sit.com.tw/
